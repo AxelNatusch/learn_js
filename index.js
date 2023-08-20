@@ -95,4 +95,4 @@ function square(number) {
 
 greet('Axel', square(2));
 
-
+greet('Axel', 'Natusch');
